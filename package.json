@@ -11,7 +11,7 @@
     "asp": "asp --verbose --nologo"
   },
   "keywords": [],
-  "author": "hello@near.org",
+  "author": "gyanlakshmi@gmail.com",
   "license": "ISC",
   "devDependencies": {
     "near-sdk-as": "^3.1.0"
