@@ -21,7 +21,7 @@ echo ---------------------------------------------------------
 echo
 
 # comment out the line below to deploy the other example contract
-near dev-deploy ./build/release/voting.wasm
+near deploy $CONTRACT.gyanlakshmi.testnet ./build/release/voting.wasm
 
 # uncomment the line below to deploy the other example contract
 # near dev-deploy ./build/release/singleton.wasm
